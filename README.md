@@ -1,6 +1,8 @@
 # PDI Serial Adapter
  Add logic level RS232 to the PDI/UPDI header, with an FTDI breakout
 
+![raytraced PCB render](pcb_render.png)
+
 A simple 2 layer board with 3x (U)PDI headers, and an FTDI cable header. A debug serial port is really handy, and STM debuggers have one built in.
 
 J1 (U)PDI cable to target MCU, 2.54mm pitch<br>
